@@ -1,0 +1,1 @@
+devtools_detect.devtools_page();

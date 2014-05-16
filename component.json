@@ -1,0 +1,10 @@
+{
+  "name": "devtools-detect",
+  "description": "",
+  "dependencies": {},
+  "development": {},
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
