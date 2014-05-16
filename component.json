@@ -1,6 +1,7 @@
 {
   "name": "devtools-detect",
-  "description": "",
+  "repository": "chrome-extension/devtools-detect",
+  "description": "Detect when Devtools is open for Chrome platform",
   "dependencies": {},
   "development": {},
   "main": "index.js",
